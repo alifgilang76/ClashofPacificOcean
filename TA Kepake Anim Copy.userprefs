@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\YamatoHealth.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DestroyShip.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CobaUnit.cs" Line="96" Column="6" />
+      <File FileName="Assets\Scripts\MogamiHealth.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\BulletCruiser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletIowa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackIowa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraOperator2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuildingList.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IowaHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BensonHealth.cs" Line="17" Column="3" />
+      <File FileName="Assets\YamatoHealth.cs" Line="20" Column="4" />
+      <File FileName="Assets\Scripts\AttackDestroyer.cs" Line="1" Column="1" />
+      <File FileName="Assets\KageroHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BaltimoreHealth.cs" Line="20" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

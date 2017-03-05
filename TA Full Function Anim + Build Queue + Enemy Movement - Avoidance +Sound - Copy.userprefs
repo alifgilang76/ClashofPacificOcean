@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CobaUnit.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CobaUnit.cs" Line="297" Column="5" />
+      <File FileName="Assets\Scripts\UnitMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraOperator2.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\Component\AgentComponent.cs" Line="45" Column="17" />
+      <File FileName="Assets\AstarPathfindingProject\Editor\GraphEditors\GraphEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\AstarPathfindingProject\Core\Serialization\JsonSerializer.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\Component\ObstacleComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets\AstarPathfindingProject\RVO\RVOController.cs" Line="1" Column="1" />
+      <File FileName="Assets\AstarPathfindingProject\Generators\RecastGenerator.cs" Line="645" Column="8" />
+      <File FileName="Assets\Scripts\BaltimoreHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackIowa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletCruiser.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

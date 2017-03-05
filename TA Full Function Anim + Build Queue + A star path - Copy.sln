@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2B570517-350D-71C9-2143-350DA77EDA32}") = "TA Full Function Anim + Build Queue + A star path - Copy", "Assembly-CSharp-firstpass.csproj", "{540483C2-1583-18CB-5635-C2296CE892EB}"
+EndProject
+Project("{2B570517-350D-71C9-2143-350DA77EDA32}") = "TA Full Function Anim + Build Queue + A star path - Copy", "Assembly-CSharp.csproj", "{F78FC4A2-CF50-D4F9-8A9C-C88C04998B59}"
+EndProject
+Project("{2B570517-350D-71C9-2143-350DA77EDA32}") = "TA Full Function Anim + Build Queue + A star path - Copy", "Assembly-CSharp-Editor.csproj", "{9F8430BE-A1C4-6AFC-6522-B19035EA7E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540483C2-1583-18CB-5635-C2296CE892EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540483C2-1583-18CB-5635-C2296CE892EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540483C2-1583-18CB-5635-C2296CE892EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540483C2-1583-18CB-5635-C2296CE892EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78FC4A2-CF50-D4F9-8A9C-C88C04998B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78FC4A2-CF50-D4F9-8A9C-C88C04998B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78FC4A2-CF50-D4F9-8A9C-C88C04998B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78FC4A2-CF50-D4F9-8A9C-C88C04998B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8430BE-A1C4-6AFC-6522-B19035EA7E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8430BE-A1C4-6AFC-6522-B19035EA7E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8430BE-A1C4-6AFC-6522-B19035EA7E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8430BE-A1C4-6AFC-6522-B19035EA7E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

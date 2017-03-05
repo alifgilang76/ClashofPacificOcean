@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E338C923-6EBD-E3D4-655C-DDA716BC5153}") = "TA Kepake Anim Copy", "Assembly-CSharp-firstpass.csproj", "{72411FC9-97C7-18A5-B47A-B284CA0D688A}"
+EndProject
+Project("{E338C923-6EBD-E3D4-655C-DDA716BC5153}") = "TA Kepake Anim Copy", "Assembly-CSharp.csproj", "{2BDC38B9-3223-7DA2-70F3-D9D4087BE3B3}"
+EndProject
+Project("{E338C923-6EBD-E3D4-655C-DDA716BC5153}") = "TA Kepake Anim Copy", "Assembly-CSharp-Editor.csproj", "{4A2CEBC4-2D69-F391-0CCA-943C0D9CA5D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72411FC9-97C7-18A5-B47A-B284CA0D688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72411FC9-97C7-18A5-B47A-B284CA0D688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72411FC9-97C7-18A5-B47A-B284CA0D688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72411FC9-97C7-18A5-B47A-B284CA0D688A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDC38B9-3223-7DA2-70F3-D9D4087BE3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDC38B9-3223-7DA2-70F3-D9D4087BE3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDC38B9-3223-7DA2-70F3-D9D4087BE3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDC38B9-3223-7DA2-70F3-D9D4087BE3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2CEBC4-2D69-F391-0CCA-943C0D9CA5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2CEBC4-2D69-F391-0CCA-943C0D9CA5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2CEBC4-2D69-F391-0CCA-943C0D9CA5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2CEBC4-2D69-F391-0CCA-943C0D9CA5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

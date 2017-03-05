@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mainmenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CobaUnit.cs" Line="398" Column="5" />
+      <File FileName="Assets\RVO\Component\ObstacleComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\Component\SimulatorComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\engine\Simulator.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\engine\Agent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\pathEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\Component\AgentComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets\pauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnerMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\RVO\engine\Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AttackIowa.cs" Line="47" Column="48" />
+      <File FileName="Assets\Scripts\AttackDestroyer.cs" Line="59" Column="1" />
+      <File FileName="Assets\Scripts\AttackCruiser.cs" Line="50" Column="32" />
+      <File FileName="Assets\mainmenu.cs" Line="40" Column="13" />
+      <File FileName="Assets\Scripts\PortHealth.cs" Line="10" Column="15" />
+      <File FileName="Assets\Scripts\BulletCruiser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletIowa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipSpawnSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BuildScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Economy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnEnemy.cs" Line="71" Column="4" />
+      <File FileName="Assets\Scripts\FactoryHealth.cs" Line="10" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Assets\Scripts\CobaUnit.cs" line="129" column="3" />
+      <Breakpoint file="E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Assets\Scripts\CobaUnit.cs" line="119" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

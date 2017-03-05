@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B74FF91A-9A29-29B9-1582-8FA5EBAB017B}") = "TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy", "Assembly-CSharp-firstpass.csproj", "{EA6CEBBD-20B4-F343-A5B7-E7EDAEF5BEF6}"
+EndProject
+Project("{B74FF91A-9A29-29B9-1582-8FA5EBAB017B}") = "TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy", "Assembly-CSharp.csproj", "{A8E610CF-BB9F-D241-CA65-3CAFB74C69F1}"
+EndProject
+Project("{B74FF91A-9A29-29B9-1582-8FA5EBAB017B}") = "TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy", "Assembly-CSharp-Editor.csproj", "{1A27C8E4-B7C6-34BE-EE10-4495470472E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6CEBBD-20B4-F343-A5B7-E7EDAEF5BEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6CEBBD-20B4-F343-A5B7-E7EDAEF5BEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6CEBBD-20B4-F343-A5B7-E7EDAEF5BEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6CEBBD-20B4-F343-A5B7-E7EDAEF5BEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E610CF-BB9F-D241-CA65-3CAFB74C69F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E610CF-BB9F-D241-CA65-3CAFB74C69F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E610CF-BB9F-D241-CA65-3CAFB74C69F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E610CF-BB9F-D241-CA65-3CAFB74C69F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A27C8E4-B7C6-34BE-EE10-4495470472E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A27C8E4-B7C6-34BE-EE10-4495470472E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A27C8E4-B7C6-34BE-EE10-4495470472E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A27C8E4-B7C6-34BE-EE10-4495470472E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
