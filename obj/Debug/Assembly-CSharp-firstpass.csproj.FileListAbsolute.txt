@@ -1,0 +1,256 @@
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake)\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA(Kepake) - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Newest Ver - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Kepake Anim Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Tes Fog of War\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Pathfinding.ClipperLib.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Pathfinding.JsonFx.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + Enemy Movement - Avoidance +Sound - Copy\Temp\bin\Debug\Pathfinding.Poly2Tri.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Kuliah\OneDrive\Tugas Akhir\Unity\TA Full Function Anim + Build Queue + A star path - Copy\obj\Debug\Assembly-CSharp-firstpass.pdb
